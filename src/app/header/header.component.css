@@ -1,0 +1,17 @@
+.nav{
+    border:1px solid black ;
+    padding: 10px;
+    height:60px;
+
+}
+.nav h1{
+    margin-left: 20px;
+}
+ul li{
+    float: left;
+    /* padding: 10px; */
+    list-style-type: none;
+    font-size: 25px;
+    margin-left: 5px;
+   
+}
