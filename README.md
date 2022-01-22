@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Live link
 
-Click  <a href="" > Flash Card</a> to view the application.
+Click  <a href="https://kibetrono.github.io/Flash-Card-App/" > Flash Card</a> to view the application.
 
 
 
